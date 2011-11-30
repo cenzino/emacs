@@ -1,0 +1,3 @@
+[submodule "ext/pdee"]
+	path = ext/pdee
+	url = git://github.com/pdee/pdee.git
