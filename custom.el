@@ -8,6 +8,8 @@
  '(fringe-mode (quote (1 . 1)) nil (fringe))
  '(scroll-bar-mode nil)
  '(show-paren-mode t)
+ '(tabbar-cycle-scope nil)
+ '(tabbar-mode t nil (tabbar))
  '(text-mode-hook (quote (turn-on-auto-fill text-mode-hook-identify))))
 (custom-set-faces
   ;; custom-set-faces was added by Custom.
